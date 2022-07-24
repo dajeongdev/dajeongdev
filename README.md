@@ -13,7 +13,7 @@
     <img alt="java" src="https://img.shields.io/badge/Java-007396.svg?style=flat-square&logo=java&logoColor=white"/> 
     <img alt="spring" src="https://img.shields.io/badge/Spring-6db33f.svg?style=flat-square&logo=spring&logoColor=white"/> 
     <img alt="springboot" src="https://img.shields.io/badge/SpringBoot-6db33f.svg?style=flat-square&logo=springboot&logoColor=white"/> 
-    <img alt="css" src="https://img.shields.io/badge/Css-1572b6.svg?style=flat-square&logo=css&logoColor=white"/> 
+    <img alt="css" src="https://img.shields.io/badge/CSS-1572b6.svg?style=flat-square&logo=css3&logoColor=white"/> 
     <img alt="mysql" src="https://img.shields.io/badge/Mysql-4479a1.svg?style=flat-square&logo=mysql&logoColor=white"/> 
     <img alt="aws" src="https://img.shields.io/badge/AWS-232f3e.svg?style=flat-square&logo=amazon-aws&logoColor=white"/> 
 </p>
