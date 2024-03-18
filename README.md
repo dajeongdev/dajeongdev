@@ -3,8 +3,8 @@
 <div align="center">
 
 <h4>📙 Blog & Email 📮</h4>
-[![Tech Blog Badge](http://img.shields.io/badge/Tech%20blog-438f68?style=flat-square&logo=github&logoColor=white&link=https://dajeongdev.github.io/)](https://dajeongdev.github.io/)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dajeongdev@gmail.com)](mailto:dajeongdev@gmail.com)
+<img alt="blog" src="http://img.shields.io/badge/Tech%20blog-438f68?style=flat-square&logo=github&logoColor=white&link=https://dajeongdev.github.io">
+<img alt="gmail" src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dajeongdev@gmail.com">
 <br>
 <br>
 
