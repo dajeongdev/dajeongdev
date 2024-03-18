@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Dajeong's Github&fontSize=60" />
+![D4FBAA7A-B517-43D6-9551-769B231D4BB8](https://github.com/dajeongdev/dajeongdev/assets/61612976/bd8d39f9-7e9e-4734-8cfe-8cd2744fadf2)
 
 <div align="center">
 
