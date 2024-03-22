@@ -6,7 +6,6 @@
 <img alt="blog" src="http://img.shields.io/badge/Tech%20blog-438f68?style=flat-square&logo=github&logoColor=white&link=https://dajeongdev.github.io">
 <img alt="gmail" src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dajeongdev@gmail.com">
 <br>
-<br>
 
 <h4>🛠 Tech Stack 📚</h4>
 <p>
