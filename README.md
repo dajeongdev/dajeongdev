@@ -3,9 +3,11 @@
 <div align="center">
 
 <h4>📙 Blog & Email 📮</h4>
-<img alt="blog" src="http://img.shields.io/badge/Tech%20blog-438f68?style=flat-square&logo=github&logoColor=white&link=https://dajeongdev.github.io">
-<img alt="gmail" src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dajeongdev@gmail.com">
+<a href=https://dajeongdev.github.io><img alt="blog" src="http://img.shields.io/badge/Tech%20blog-438f68?style=flat-square&logo=github&logoColor=white&link=https://dajeongdev.github.io"></a>
+<a href=mailto:dajeongdev@gmail.com><img alt="gmail" src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dajeongdev@gmail.com"></a>
 <br>
+
+<a href="https://github.com/dajeongdev/hit-counter"></a>
 
 <h4>🛠 Tech Stack 📚</h4>
 <p>
